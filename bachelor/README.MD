@@ -40,7 +40,7 @@
 * Wpływ technologii na izolację społeczną
 ### 2. Trudności w znalezieniu partnera
 * Problem z komunikacją i brakiem umiejętności społecznych
-* Zjawisko "ghostingu" i inne nowe formy kończenia relacji
+* Ghosting, breadcrumbing, catfishing i inne nowe zjawiska
 * Breadcrumbing, benching i inne pojęcia pokrewne
 * Zjawisko hipergamii u kobiet
 * Wpływ liczby partnerów u kobiet na szanse budowy szczęśliwego związku
