@@ -47,6 +47,9 @@
 ### 3. Ruchy społeczne związane z randkowaniem
 * Incele i ich narracja o rynku matrymonialnym
 * Red Pill – krytyka feminizmu i rosnące antagonizmy między płciami
+* Black Pill – pesymistyczne spojrzenie na dynamikę relacji
+* MGTOW – Mężczyźni podążający własną drogą
+* Blue Pill – akceptacja tradycyjnych norm społecznych
 * Feminizm a odpowiedź na zmieniające się role płciowe
 
 ## Rozdział IV: Perspektywy i wyzwania przyszłości
