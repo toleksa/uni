@@ -1,4 +1,4 @@
-# Plan ramowy pracy licencjackiej:  
+# Plan ramowy pracy licencjackiej: 
 Wpływ mediów społecznościowych i aplikacji randkowych na rynek matrymonialny
 
 ## Wstęp
