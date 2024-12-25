@@ -11,13 +11,13 @@ W świecie współczesnego randkowania, zwłaszcza w kontekście korzystania z a
 
 Jednym z najbardziej rozpowszechnionych zjawisk jest "ghosting" – nagłe, bez wyjaśnienia, zerwanie kontaktu z drugą osobą. To unikanie konfrontacji emocjonalnej, choć wygodne dla osoby inicjującej, prowadzi do silnego poczucia frustracji, niepewności i obniżenia samooceny u osoby porzuconej. Ghosting jest wyrazem braku odpowiedzialności emocjonalnej, co nie tylko komplikuje relacje międzyludzkie, ale również utrudnia budowanie zaufania w przyszłych kontaktach.
 
-<p align="center"><img src="./res/32-ghosting.webp" width="500"></p>
+<p align="center"><img src="./res/32-ghosting.webp" width="300"></p>
 
 Innym zjawiskiem jest "breadcrumbing" – praktyka polegająca na podtrzymywaniu minimalnego kontaktu z drugą osobą poprzez sporadyczne wiadomości lub gesty, które sprawiają wrażenie zainteresowania, ale nie prowadzą do rozwinięcia relacji. Breadcrumbing, choć subtelny, utrzymuje drugą osobę w stanie ciągłej niepewności i oczekiwania, co często prowadzi do frustracji oraz poczucia zmarnowanego czasu.
 
 Zjawisko "catfishingu" polega na tworzeniu fałszywej tożsamości w celu oszukania innej osoby, często z zamiarem wyłudzenia pieniędzy, uzyskania uwagi lub zaspokojenia własnych potrzeb emocjonalnych. Catfishing może prowadzić do poważnych konsekwencji emocjonalnych dla ofiary, takich jak poczucie zdrady, obniżenie poczucia własnej wartości czy długotrwałe trudności z zaufaniem w relacjach. W skrajnych przypadkach może także skutkować problemami prawnymi lub finansowymi.
 
-<p align="center"><img src="./res/32-catfishing.jpg" width="500"></p>
+<p align="center"><img src="./res/32-catfishing.jpg" width="300"></p>
 
 Pokrewne terminy, które również opisują nowe zjawiska w relacjach międzyludzkich, obejmują:
 * **Orbiting**: sytuację, w której osoba, po zakończeniu kontaktu, nadal obserwuje aktywność drugiej osoby w mediach społecznościowych, pozostawiając wrażenie swojej obecności, ale bez rzeczywistej komunikacji. Taka forma "niewidzialnej kontroli" utrzymuje drugą stronę w stanie niepewności.
@@ -29,7 +29,7 @@ Te zachowania, będące często efektem nowych technologii i kultury natychmiast
 ### Zjawisko hipergamii u kobiet
 Hipergamia, definiowana jako tendencja kobiet do poszukiwania partnerów o wyższym statusie społecznym, ekonomicznym lub edukacyjnym, odgrywa istotną rolę w kształtowaniu dynamiki współczesnego rynku matrymonialnego. W erze globalizacji i cyfrowego randkowania, gdzie możliwości wyboru partnerów są niemal nieograniczone, zjawisko to staje się jeszcze bardziej widoczne. Algorytmy aplikacji randkowych dodatkowo wzmacniają tę tendencję, promując profile osób o wysokim statusie społecznym, atrakcyjności fizycznej lub zasobach finansowych. To może prowadzić do frustracji i wykluczenia osób, które nie spełniają tych wygórowanych kryteriów.
 
-<p align="center"><img src="./res/32-hypergamy.svg" width="500"></p>
+<p align="center"><img src="./res/32-hypergamy.svg" width="300"></p>
 
 Zjawisko hipergamii nie tylko wpływa na wybory dokonywane przez kobiety, ale również generuje trudności w znalezieniu partnera przez mężczyzn, szczególnie w społecznościach, gdzie istnieją znaczące nierówności społeczne i edukacyjne. Kobiety osiągające wysoki status zawodowy lub edukacyjny mogą napotykać trudności w znalezieniu partnerów spełniających ich oczekiwania, co dodatkowo komplikuje dynamikę współczesnych relacji.
 
@@ -42,7 +42,7 @@ Kwestia liczby wcześniejszych partnerów seksualnych a jej wpływ na stabilnoś
 
 <źródło i mem>
 
-<p align="center"><img src="./res/32-partners.jpg" width="500"></p>
+<p align="center"><img src="./res/32-partners.jpg" width="300"></p>
 
 Jednakże wiele z tych twierdzeń jest krytykowanych za reprodukcję stereotypów płciowych i brak uwzględnienia kontekstu kulturowego oraz osobistych doświadczeń. Alternatywne badania wskazują, że jakość relacji zależy przede wszystkim od umiejętności komunikacji, zgodności wartości, wzajemnego zaangażowania i emocjonalnej dojrzałości partnerów, a nie od liczby wcześniejszych relacji seksualnych.
 
