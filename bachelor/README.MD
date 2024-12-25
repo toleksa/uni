@@ -9,14 +9,14 @@
 * Czy przyczyniły się do wzrostu samotności i trudności w relacjach międzyludzkich?
 
 ## Rozdział I: Historia i ewolucja rynku matrymonialnego
-    1. Tradycyjne formy poznawania partnerów
+    ### 1. Tradycyjne formy poznawania partnerów
         * Rola rodziny, przyjaciół i lokalnej społeczności
         * Znaczenie miejsc pracy i edukacji
         * Role płci w budowaniu relacji
-    2. Początki cyfrowego randkowania
+    ### 2. Początki cyfrowego randkowania
         * Powstanie portali randkowych (np. Match.com)
         * Ewolucja od stron internetowych do aplikacji mobilnych
-    3. Narodziny aplikacji randkowych
+    ### 3. Narodziny aplikacji randkowych
         * Charakterystyka aplikacji takich jak Tinder, Bumble, OkCupid
         * "Swipe culture" – mechanizm przesuwania i jego wpływ na podejmowanie decyzji
 
