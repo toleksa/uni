@@ -69,3 +69,4 @@
 
 ## TODO:
 * dopisz szczęście a liczba partnerów
+* o hipergamii
