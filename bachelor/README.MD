@@ -63,9 +63,9 @@
           
 
 ## Zakończenie
-### 1. Podsumowanie najważniejszych wniosków
-### 2. Odpowiedź na pytania badawcze
-### 3. Refleksja na temat przyszłości relacji międzyludzkich w dobie technologii
+* Podsumowanie najważniejszych wniosków
+* Odpowiedź na pytania badawcze
+* Refleksja na temat przyszłości relacji międzyludzkich w dobie technologii
 
 ## TODO:
 * dopisz szczęście a liczba partnerów
