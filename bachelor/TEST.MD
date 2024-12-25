@@ -16,9 +16,9 @@ Innym zjawiskiem jest "breadcrumbing" – praktyka polegająca na podtrzymywaniu
 Zjawisko "catfishingu" polega na tworzeniu fałszywej tożsamości w celu oszukania innej osoby, często z zamiarem wyłudzenia pieniędzy, uzyskania uwagi lub zaspokojenia własnych potrzeb emocjonalnych. Catfishing może prowadzić do poważnych konsekwencji emocjonalnych dla ofiary, takich jak poczucie zdrady, obniżenie poczucia własnej wartości czy długotrwałe trudności z zaufaniem w relacjach. W skrajnych przypadkach może także skutkować problemami prawnymi lub finansowymi.
 
 Pokrewne terminy, które również opisują nowe zjawiska w relacjach międzyludzkich, obejmują:
-* Orbiting: sytuację, w której osoba, po zakończeniu kontaktu, nadal obserwuje aktywność drugiej osoby w mediach społecznościowych, pozostawiając wrażenie swojej obecności, ale bez rzeczywistej komunikacji. Taka forma "niewidzialnej kontroli" utrzymuje drugą stronę w stanie niepewności.
-* Zombie-ing: odnowienie kontaktu przez osobę, która wcześniej zniknęła bez wyjaśnienia (np. ghosting), często bez przeprosin lub wyjaśnienia przyczyn wcześniejszego zachowania.
-* Benching: strategia polegająca na utrzymywaniu osoby "w rezerwie" poprzez sporadyczny kontakt, przy jednoczesnym aktywnym poszukiwaniu innych opcji randkowych. Takie podejście obniża poczucie wartości osoby będącej w roli "rezerwy" i komplikuje dynamikę relacji.
+* **Orbiting**: sytuację, w której osoba, po zakończeniu kontaktu, nadal obserwuje aktywność drugiej osoby w mediach społecznościowych, pozostawiając wrażenie swojej obecności, ale bez rzeczywistej komunikacji. Taka forma "niewidzialnej kontroli" utrzymuje drugą stronę w stanie niepewności.
+* **Zombie-ing**: odnowienie kontaktu przez osobę, która wcześniej zniknęła bez wyjaśnienia (np. ghosting), często bez przeprosin lub wyjaśnienia przyczyn wcześniejszego zachowania.
+* **Benching**: strategia polegająca na utrzymywaniu osoby "w rezerwie" poprzez sporadyczny kontakt, przy jednoczesnym aktywnym poszukiwaniu innych opcji randkowych. Takie podejście obniża poczucie wartości osoby będącej w roli "rezerwy" i komplikuje dynamikę relacji.
 
 Te zachowania, będące często efektem nowych technologii i kultury natychmiastowej gratyfikacji, utrudniają nawiązywanie głębokich relacji, zwiększając jednocześnie poczucie alienacji i dezorientacji emocjonalnej.
 
