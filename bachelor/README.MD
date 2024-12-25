@@ -41,6 +41,8 @@
 * Problem z komunikacją i brakiem umiejętności społecznych
 * Zjawisko "ghostingu" i inne nowe formy kończenia relacji
 * Breadcrumbing, benching i inne pojęcia pokrewne
+* Zjawisko hipergamii u kobiet
+* Wpływ liczby partnerów u kobiet na szanse budowy szczęśliwego związku
 ### 3. Ruchy społeczne związane z randkowaniem
 * Incele i ich narracja o rynku matrymonialnym
 * Red Pill – krytyka feminizmu i rosnące antagonizmy między płciami
