@@ -70,5 +70,3 @@
 * Refleksja na temat przyszłości relacji międzyludzkich w dobie technologii
 
 ## TODO:
-* dopisz szczęście a liczba partnerów
-* o hipergamii
