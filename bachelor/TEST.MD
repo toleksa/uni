@@ -11,7 +11,7 @@ W świecie współczesnego randkowania, zwłaszcza w kontekście korzystania z a
 
 Jednym z najbardziej rozpowszechnionych zjawisk jest "ghosting" – nagłe, bez wyjaśnienia, zerwanie kontaktu z drugą osobą. To unikanie konfrontacji emocjonalnej, choć wygodne dla osoby inicjującej, prowadzi do silnego poczucia frustracji, niepewności i obniżenia samooceny u osoby porzuconej. Ghosting jest wyrazem braku odpowiedzialności emocjonalnej, co nie tylko komplikuje relacje międzyludzkie, ale również utrudnia budowanie zaufania w przyszłych kontaktach.
 
-![meme ghosting](./res/32-ghosting.jpg)
+![meme ghosting](./res/32-ghosting.webp)
 
 Innym zjawiskiem jest "breadcrumbing" – praktyka polegająca na podtrzymywaniu minimalnego kontaktu z drugą osobą poprzez sporadyczne wiadomości lub gesty, które sprawiają wrażenie zainteresowania, ale nie prowadzą do rozwinięcia relacji. Breadcrumbing, choć subtelny, utrzymuje drugą osobę w stanie ciągłej niepewności i oczekiwania, co często prowadzi do frustracji oraz poczucia zmarnowanego czasu.
 
