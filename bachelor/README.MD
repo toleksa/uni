@@ -1,10 +1,10 @@
 # Plan ramowy pracy licencjackiej: Wpływ mediów społecznościowych i aplikacji randkowych na rynek matrymonialny
 
 ## Wstęp
-1. Wprowadzenie do tematu pracy
+### 1. Wprowadzenie do tematu pracy
 * Wyjaśnienie, czym są media społecznościowe i aplikacje randkowe
 * Znaczenie tematu w kontekście współczesnych zmian społecznych
-2. Cel pracy i pytania badawcze
+### 2. Cel pracy i pytania badawcze
 * Jak media społecznościowe i aplikacje wpłynęły na zachowania randkowe?
 * Czy przyczyniły się do wzrostu samotności i trudności w relacjach międzyludzkich?
 
