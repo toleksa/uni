@@ -36,6 +36,8 @@ Kwestia liczby wcześniejszych partnerów seksualnych a jej wpływ na stabilnoś
 
 <źródło i mem>
 
+![image info](./res/32.jpg)
+
 Jednakże wiele z tych twierdzeń jest krytykowanych za reprodukcję stereotypów płciowych i brak uwzględnienia kontekstu kulturowego oraz osobistych doświadczeń. Alternatywne badania wskazują, że jakość relacji zależy przede wszystkim od umiejętności komunikacji, zgodności wartości, wzajemnego zaangażowania i emocjonalnej dojrzałości partnerów, a nie od liczby wcześniejszych relacji seksualnych.
 
 Dyskusja na ten temat pozostaje istotnym elementem rozważań nad współczesnymi wyzwaniami w budowaniu relacji, uwidaczniając jednocześnie potrzebę bardziej zniuansowanego podejścia, które uwzględnia indywidualne różnice i zmienność norm społecznych.
