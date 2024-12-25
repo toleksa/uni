@@ -11,13 +11,13 @@ W świecie współczesnego randkowania, zwłaszcza w kontekście korzystania z a
 
 Jednym z najbardziej rozpowszechnionych zjawisk jest "ghosting" – nagłe, bez wyjaśnienia, zerwanie kontaktu z drugą osobą. To unikanie konfrontacji emocjonalnej, choć wygodne dla osoby inicjującej, prowadzi do silnego poczucia frustracji, niepewności i obniżenia samooceny u osoby porzuconej. Ghosting jest wyrazem braku odpowiedzialności emocjonalnej, co nie tylko komplikuje relacje międzyludzkie, ale również utrudnia budowanie zaufania w przyszłych kontaktach.
 
-<img src="./res/32-ghosting.webp" width="500">
+<img src="./res/32-ghosting.webp" width="500" align="center">
 
 Innym zjawiskiem jest "breadcrumbing" – praktyka polegająca na podtrzymywaniu minimalnego kontaktu z drugą osobą poprzez sporadyczne wiadomości lub gesty, które sprawiają wrażenie zainteresowania, ale nie prowadzą do rozwinięcia relacji. Breadcrumbing, choć subtelny, utrzymuje drugą osobę w stanie ciągłej niepewności i oczekiwania, co często prowadzi do frustracji oraz poczucia zmarnowanego czasu.
 
 Zjawisko "catfishingu" polega na tworzeniu fałszywej tożsamości w celu oszukania innej osoby, często z zamiarem wyłudzenia pieniędzy, uzyskania uwagi lub zaspokojenia własnych potrzeb emocjonalnych. Catfishing może prowadzić do poważnych konsekwencji emocjonalnych dla ofiary, takich jak poczucie zdrady, obniżenie poczucia własnej wartości czy długotrwałe trudności z zaufaniem w relacjach. W skrajnych przypadkach może także skutkować problemami prawnymi lub finansowymi.
 
-<img src="./res/32-catfishing.jpg" width="500">
+<img src="./res/32-catfishing.jpg" width="500" align="center">
 
 Pokrewne terminy, które również opisują nowe zjawiska w relacjach międzyludzkich, obejmują:
 * **Orbiting**: sytuację, w której osoba, po zakończeniu kontaktu, nadal obserwuje aktywność drugiej osoby w mediach społecznościowych, pozostawiając wrażenie swojej obecności, ale bez rzeczywistej komunikacji. Taka forma "niewidzialnej kontroli" utrzymuje drugą stronę w stanie niepewności.
