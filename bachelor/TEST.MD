@@ -29,6 +29,8 @@ Te zachowania, będące często efektem nowych technologii i kultury natychmiast
 ### Zjawisko hipergamii u kobiet
 Hipergamia, definiowana jako tendencja kobiet do poszukiwania partnerów o wyższym statusie społecznym, ekonomicznym lub edukacyjnym, odgrywa istotną rolę w kształtowaniu dynamiki współczesnego rynku matrymonialnego. W erze globalizacji i cyfrowego randkowania, gdzie możliwości wyboru partnerów są niemal nieograniczone, zjawisko to staje się jeszcze bardziej widoczne. Algorytmy aplikacji randkowych dodatkowo wzmacniają tę tendencję, promując profile osób o wysokim statusie społecznym, atrakcyjności fizycznej lub zasobach finansowych. To może prowadzić do frustracji i wykluczenia osób, które nie spełniają tych wygórowanych kryteriów.
 
+![pic hypergamy](./res/32-hypergamy.svg)
+
 Zjawisko hipergamii nie tylko wpływa na wybory dokonywane przez kobiety, ale również generuje trudności w znalezieniu partnera przez mężczyzn, szczególnie w społecznościach, gdzie istnieją znaczące nierówności społeczne i edukacyjne. Kobiety osiągające wysoki status zawodowy lub edukacyjny mogą napotykać trudności w znalezieniu partnerów spełniających ich oczekiwania, co dodatkowo komplikuje dynamikę współczesnych relacji.
 
 Warto zauważyć, że hipergamia, choć głęboko zakorzeniona w wielu kulturach, podlega krytyce jako zjawisko wzmacniające nierówności płciowe i ograniczające różnorodność relacji partnerskich.
