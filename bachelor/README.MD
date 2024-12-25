@@ -22,43 +22,43 @@
 
 ## Rozdział II: Wpływ mediów społecznościowych i aplikacji na relacje międzyludzkie
 ### 1. Mechanizmy działania aplikacji randkowych
-        * Algorytmy dopasowywania i ich skuteczność
-        * Powierzchowność wyborów: wygląd vs. głębsze wartości
+* Algorytmy dopasowywania i ich skuteczność
+* Powierzchowność wyborów: wygląd vs. głębsze wartości
 ### 2. Zmiana oczekiwań wobec relacji
-        * Wzrost standardów i idealizacja partnerów
-        * "Paraliż wyboru" – zbyt duży wybór jako źródło problemów
+* Wzrost standardów i idealizacja partnerów
+* "Paraliż wyboru" – zbyt duży wybór jako źródło problemów
 ### 3. Seksualność i intymność
-        * Spadek liczby osób uprawiających seks w młodym wieku
-        * Przesunięcie norm dotyczących intymności i monogamii
+* Spadek liczby osób uprawiających seks w młodym wieku
+* Przesunięcie norm dotyczących intymności i monogamii
 ### 4. Wpływ aplikacji na relacje międzyludzkie w różnych kulturach
-        * Globalizacja a lokalne normy społeczne
-        * Konflikty między tradycją a nowoczesnością
+* Globalizacja a lokalne normy społeczne
+* Konflikty między tradycją a nowoczesnością
 ## Rozdział III: Samotność i trudności w budowaniu relacji
 ### 1. Epidemia samotności
-        * Statystyki dotyczące samotności w krajach rozwiniętych
-        * Wpływ technologii na izolację społeczną
+* Statystyki dotyczące samotności w krajach rozwiniętych
+* Wpływ technologii na izolację społeczną
 ### 2. Trudności w znalezieniu partnera
-        * Problem z komunikacją i brakiem umiejętności społecznych
-        * Zjawisko "ghostingu" i inne nowe formy kończenia relacji
-        * Breadcrumbing, benching i inne pojęcia pokrewne
+* Problem z komunikacją i brakiem umiejętności społecznych
+* Zjawisko "ghostingu" i inne nowe formy kończenia relacji
+* Breadcrumbing, benching i inne pojęcia pokrewne
 ### 3. Ruchy społeczne związane z randkowaniem
-        * Incele i ich narracja o rynku matrymonialnym
-        * Red Pill – krytyka feminizmu i rosnące antagonizmy między płciami
-        * Feminizm a odpowiedź na zmieniające się role płciowe
+* Incele i ich narracja o rynku matrymonialnym
+* Red Pill – krytyka feminizmu i rosnące antagonizmy między płciami
+* Feminizm a odpowiedź na zmieniające się role płciowe
 
 ## Rozdział IV: Perspektywy i wyzwania przyszłości
 ### 1. Możliwe kierunki rozwoju aplikacji randkowych
-        * Wykorzystanie sztucznej inteligencji i rozszerzonej rzeczywistości
-        * Aplikacje niszowe jako odpowiedź na zróżnicowane potrzeby
+* Wykorzystanie sztucznej inteligencji i rozszerzonej rzeczywistości
+* Aplikacje niszowe jako odpowiedź na zróżnicowane potrzeby
 ### 2. Wyzwania społeczne związane z nowoczesnym randkowaniem
-        * Wpływ na zdrowie psychiczne i relacje międzyludzkie
-        * Edukacja w zakresie budowania zdrowych związków
+* Wpływ na zdrowie psychiczne i relacje międzyludzkie
+* Edukacja w zakresie budowania zdrowych związków
 ### 3. Alternatywy dla cyfrowego randkowania
-        * Powrót do tradycyjnych form nawiązywania relacji
-        * Rola lokalnych społeczności i inicjatyw offline
+* Powrót do tradycyjnych form nawiązywania relacji
+* Rola lokalnych społeczności i inicjatyw offline
 ### 4. Technologie przyszłości a relacje międzyludzkie
-        * Możliwości i zagrożenia związane z wirtualną rzeczywistością
-        * Zautomatyzowane partnerstwo – relacje z robotami i SI
+* Możliwości i zagrożenia związane z wirtualną rzeczywistością
+* Zautomatyzowane partnerstwo – relacje z robotami i SI
        
           
 
