@@ -13,6 +13,7 @@
 * Rola rodziny, przyjaciół i lokalnej społeczności
 * Znaczenie miejsc pracy i edukacji
 * Role płci w budowaniu relacji
+* Wpływ urbanizacji i wzrostu mobilności
 ### 2. Początki cyfrowego randkowania
 * Powstanie portali randkowych (np. Match.com)
 * Ewolucja od stron internetowych do aplikacji mobilnych
