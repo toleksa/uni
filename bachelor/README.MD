@@ -66,7 +66,7 @@
 * Promowanie autentycznych relacji w erze cyfrowej
 ### 4. Technologie przyszłości a relacje międzyludzkie
 * Możliwości i zagrożenia związane z wirtualną rzeczywistością
-* Zautomatyzowane partnerstwo – relacje z robotami i SI
+* Zautomatyzowane partnerstwo – relacje z robotami i sztuczną inteligencją
        
           
 
