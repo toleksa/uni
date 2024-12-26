@@ -59,6 +59,7 @@
 ### 2. Wyzwania społeczne związane z nowoczesnym randkowaniem
 * Wpływ na zdrowie psychiczne i relacje międzyludzkie
 * Edukacja w zakresie budowania zdrowych związków
+* Wsparcie psychologiczne i przeciwdziałanie samotności
 ### 3. Alternatywy dla cyfrowego randkowania
 * Powrót do tradycyjnych form nawiązywania relacji
 * Rola lokalnych społeczności i inicjatyw offline
