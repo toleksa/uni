@@ -61,8 +61,9 @@
 * Edukacja w zakresie budowania zdrowych związków
 * Wsparcie psychologiczne i przeciwdziałanie samotności
 ### 3. Alternatywy dla cyfrowego randkowania
-* Powrót do tradycyjnych form nawiązywania relacji
-* Rola lokalnych społeczności i inicjatyw offline
+* Renesans tradycyjnych metod budowania relacji
+* Znaczenie lokalnych społeczności i inicjatyw offline
+* Promowanie autentycznych relacji w erze cyfrowej
 ### 4. Technologie przyszłości a relacje międzyludzkie
 * Możliwości i zagrożenia związane z wirtualną rzeczywistością
 * Zautomatyzowane partnerstwo – relacje z robotami i SI
