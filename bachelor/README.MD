@@ -16,7 +16,7 @@
 * Wpływ urbanizacji i wzrostu mobilności
 ### 2. Początki cyfrowego randkowania
 * Powstanie portali randkowych (np. Match.com)
-* Ewolucja od stron internetowych do aplikacji mobilnych
+* Ewolucja technologiczna i społeczne adaptacje
 ### 3. Narodziny aplikacji randkowych
 * Charakterystyka aplikacji takich jak Tinder, Bumble, OkCupid
 * "Swipe culture" – mechanizm przesuwania i jego wpływ na podejmowanie decyzji
